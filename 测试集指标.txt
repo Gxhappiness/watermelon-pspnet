@@ -1,0 +1,7 @@
+终端cmd跳转到mmsegmentation目录文件下——cd mmsegmentation
+
+
+####测试集精度指标
+
+python tools/test.py projects/watermelon/pspnet-watermelon.py projects/watermelon/work_dirs/watermelonDataset/iter_3000.pth
+
